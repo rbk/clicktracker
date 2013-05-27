@@ -1,0 +1,30 @@
+C:\Users\Richard\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Richard\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Richard\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Richard\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Richard\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ClickCounter.resources
+C:\Users\Richard\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Richard\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Richard\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Richard\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Richard\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Richard\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Richard\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+C:\Users\Richard\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.application
+C:\Users\Richard\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe.manifest
+C:\Users\Richard\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.application
+C:\wamp\www\ClickTracker\ClickTracker\bin\Debug\ClickTracker.exe.manifest
+C:\wamp\www\ClickTracker\ClickTracker\bin\Debug\ClickTracker.application
+C:\wamp\www\ClickTracker\ClickTracker\bin\Debug\ClickTracker.exe
+C:\wamp\www\ClickTracker\ClickTracker\bin\Debug\ClickTracker.pdb
+C:\wamp\www\ClickTracker\ClickTracker\bin\Debug\ClickTracker.xml
+C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\ClickTracker.ClickCounter.resources
+C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\ClickTracker.Resources.resources
+C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\ClickTracker.exe.manifest
+C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\ClickTracker.application
+C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\ClickTracker.exe
+C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\ClickTracker.xml
+C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\ClickTracker.pdb
