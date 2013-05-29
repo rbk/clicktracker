@@ -19,7 +19,6 @@ C:\wamp\www\ClickTracker\ClickTracker\bin\Debug\ClickTracker.exe
 C:\wamp\www\ClickTracker\ClickTracker\bin\Debug\ClickTracker.pdb
 C:\wamp\www\ClickTracker\ClickTracker\bin\Debug\ClickTracker.xml
 C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\ClickTracker.ClickCounter.resources
 C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\ClickTracker.Resources.resources
 C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\GenerateResource.write.1.tlog
@@ -28,3 +27,4 @@ C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\ClickTracker.application
 C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\ClickTracker.exe
 C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\ClickTracker.xml
 C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\ClickTracker.pdb
+C:\wamp\www\ClickTracker\ClickTracker\obj\x86\Debug\ClickTracker.ClickCounter.resources
