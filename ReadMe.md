@@ -2,4 +2,4 @@
 
 Windows app that simply counts your clicks.
 
-Just if you were wondering how many time you click the mouse in a single day.
+Just if you were wondering how many times you click the mouse in a single day.
